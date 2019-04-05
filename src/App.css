@@ -1,0 +1,16 @@
+.drum-container {
+  display:flex;
+  justify-content: center;
+}
+
+.Riddime {
+  align-self:flex-end;
+}
+
+.green {
+  color:green
+}
+
+.red {
+  color:red
+}
